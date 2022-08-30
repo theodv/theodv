@@ -2,7 +2,8 @@
 *I am currently learning how to code at the University of South Carolina and I am really excited!*
 <!--
 
-Here are some ideas to get you started:
+
+
 
 
 - 🌱 I’m currently learning the basics of coding.
