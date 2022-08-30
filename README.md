@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Theodore!
+### Hi there 👋 My name is Theodore Villalva! I am in the CSCE 190.
 *I am currently learning how to code at the University of South Carolina and I am really excited!*
 <!--
 
