@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Theodore and I am currently a freshmen at the University of South Carolina.
 *I am currently learning how to code at the University of South Carolina and I am really excited!*
 <!--
 **theodv/theodv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
