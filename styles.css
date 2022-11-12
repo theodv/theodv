@@ -2,9 +2,12 @@ body {
     background:skyblue;
     font-family:sans-serif;
 }
-
-.assignment {
+.assignments{
     display:flex;
+    flex-wrap:wrap;
+}
+.assignment {
+    width:14%;
     padding: 10px;
     margin: 10px;
     background: lightslategray;
@@ -12,10 +15,16 @@ body {
 
 .assignment img {
     width:200px;
-    padding:10px;
+    margin:10px;
+    display:block;
+    margin:auto;
+    border:4px solid #FFF;
 
 }
 h1 {
     color:palevioletred;
+    text-align:center;
+}
+h2{
     text-align:center;
 }
